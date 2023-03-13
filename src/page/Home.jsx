@@ -1,12 +1,12 @@
 import React from "react";
 import Header from "../component/Header";
-import Table from "../component/Table";
+import TableList from "../component/TableList";
 
 function Home() {
   return (
     <>
       <Header />
-      <Table />
+      <TableList />
     </>
   );
 }
